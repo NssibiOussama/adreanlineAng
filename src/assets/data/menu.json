@@ -1,0 +1,85 @@
+{
+  "menu": [
+    {
+      "route": "admin/overview",
+      "name": "Overview",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/categoriedejeux",
+      "name": "Catégories de jeux",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/jeux",
+      "name": "Jeux",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/tournois",
+      "name": "Tournois",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/tutoriels",
+      "name": "Tutoriels",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+
+    {
+      "route": "admin/membres",
+      "name": "Membres",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/produits",
+      "name": "Produits",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/reclamations",
+      "name": "Reclamations",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/commandes",
+      "name": "Commandes",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/notificationTournois",
+      "name": "Notification Tournois",
+      "type": "link",
+      "icon": "color_lens"
+
+    },
+    {
+      "route": "admin/equipes",
+      "name": "Equipes",
+      "type": "link",
+      "icon": "color_lens"
+
+    }
+
+  
+   
+  ]
+}
